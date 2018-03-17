@@ -1,2 +1,3 @@
 qqq
-www1
+<<<<<<< HEAD
+www12
