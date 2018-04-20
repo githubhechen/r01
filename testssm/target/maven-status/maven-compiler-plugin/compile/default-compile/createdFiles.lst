@@ -1,0 +1,5 @@
+com\bjsxt\service\UserService.class
+com\bjsxt\controller\UserController.class
+com\bjsxt\mapper\UserMapper.class
+com\bjsxt\pojo\User.class
+com\bjsxt\service\impl\UserServiceImpl.class
