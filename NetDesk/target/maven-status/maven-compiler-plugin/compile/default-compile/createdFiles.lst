@@ -1,0 +1,6 @@
+com\sino\mapper\UserMapper.class
+com\sino\controller\FileController.class
+com\sino\service\UserService.class
+com\sino\service\impl\UserServiceImpl.class
+com\sino\controller\UserController.class
+com\sino\bean\User.class
