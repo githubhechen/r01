@@ -47,7 +47,7 @@ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     		<version>2.4.3</version>  
 	  </dependency> 
        
- <!-- spring核心包 -->  
+ <!-- spring核心包111111111111111111111 -->  
         <dependency>  
             <groupId>org.springframework</groupId>  
             <artifactId>spring-core</artifactId>  
